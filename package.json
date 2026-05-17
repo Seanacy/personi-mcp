@@ -1,0 +1,12 @@
+{
+  "name": "personi-mcp",
+  "version": "1.0.0",
+  "description": "MCP connector for Personi - AI Character Management",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0"
+  }
+}
